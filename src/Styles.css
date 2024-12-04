@@ -1,0 +1,74 @@
+div {
+    height: auto;
+    width: auto;
+}
+
+.App {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.login-signup {
+    display:inline-block;
+    position: relative;
+    text-align: center;
+    flex-wrap: 'wrap';
+    top: 10vh;
+    padding: 25px;
+    width: 25%;
+}
+
+.bullet-list {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+.main-menu {
+    width: 100%;
+    height: 100%;
+}
+
+.user-box {
+    display: block;
+    width: 15%;
+    height: 100%;
+    float: left;
+}
+
+.user-list {
+    display: block;
+    width: 100%;
+    height: 100%;
+    float: left;
+}
+
+.user-contact {
+    display: block;
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+}
+
+.message-box {
+    display: block;
+    width: 82%;
+    float: left;
+}
+
+.messages {
+    display: block;
+    float: left;
+    width: 100%;
+    text-align: left;
+    padding: 1px 20px 20px 20px;
+}
+
+.message-content {
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+}

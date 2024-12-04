@@ -1,0 +1,8 @@
+eventlet
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+psycopg2
+python-dotenv
+requests
+Flask-Session
